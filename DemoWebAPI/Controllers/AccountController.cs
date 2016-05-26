@@ -28,6 +28,7 @@ namespace DemoWebAPI.Controllers
 
         public AccountController()
         {
+            // this is contructor ....
         }
 
         public AccountController(ApplicationUserManager userManager,
